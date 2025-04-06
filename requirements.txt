@@ -1,0 +1,4 @@
+mistralai
+google-generativeai
+pandas
+sqlite3
