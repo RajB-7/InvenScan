@@ -7,3 +7,9 @@ This project uses **Mistral OCR** and **Gemini Flash** to extract itemized data 
 - Extracts text from receipt images using Mistral's OCR API
 - Uses Gemini Flash (Google Generative AI) to identify and format product data
 - Saves data (SKUID, name, quantity, unit price, total) into a database
+
+
+working on barcode
+not 100% accurate
+
+
